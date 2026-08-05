@@ -116,4 +116,4 @@ flowchart TD
 
 ## Preparation Recommendation
 
-A great way to evaluate your knowledge is to take a [CCAR-F practice test](https://certsclub.com/nutanix/ccar-f-demo-practice-questions) to verify your understanding of hyperconverged infrastructure and Nutanix architecture concepts.
+A great way to evaluate your knowledge is to take a [CCAR-F practice test](https://www.certsclub.com) to verify your understanding of hyperconverged infrastructure and Nutanix architecture concepts.
